@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/service-worker/static/css/main.5f361e03.chunk.css",
-    "main.js": "/service-worker/static/js/main.23f95177.chunk.js",
-    "main.js.map": "/service-worker/static/js/main.23f95177.chunk.js.map",
+    "main.css": "/service-worker/static/css/main.39a013ba.chunk.css",
+    "main.js": "/service-worker/static/js/main.28d3a632.chunk.js",
+    "main.js.map": "/service-worker/static/js/main.28d3a632.chunk.js.map",
     "runtime-main.js": "/service-worker/static/js/runtime-main.eeca5193.js",
     "runtime-main.js.map": "/service-worker/static/js/runtime-main.eeca5193.js.map",
-    "static/js/2.91f5d127.chunk.js": "/service-worker/static/js/2.91f5d127.chunk.js",
-    "static/js/2.91f5d127.chunk.js.map": "/service-worker/static/js/2.91f5d127.chunk.js.map",
+    "static/js/2.fc6ee02a.chunk.js": "/service-worker/static/js/2.fc6ee02a.chunk.js",
+    "static/js/2.fc6ee02a.chunk.js.map": "/service-worker/static/js/2.fc6ee02a.chunk.js.map",
     "index.html": "/service-worker/index.html",
-    "precache-manifest.934f15ebcf0bf1d797dbbc3407c245d5.js": "/service-worker/precache-manifest.934f15ebcf0bf1d797dbbc3407c245d5.js",
+    "precache-manifest.8ef8e612bede13c02cda2a910929a566.js": "/service-worker/precache-manifest.8ef8e612bede13c02cda2a910929a566.js",
     "service-worker.js": "/service-worker/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/service-worker/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.91f5d127.chunk.js.LICENSE.txt": "/service-worker/static/js/2.91f5d127.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/service-worker/static/media/logo.5d5d9eef.svg"
+    "static/css/main.39a013ba.chunk.css.map": "/service-worker/static/css/main.39a013ba.chunk.css.map",
+    "static/js/2.fc6ee02a.chunk.js.LICENSE.txt": "/service-worker/static/js/2.fc6ee02a.chunk.js.LICENSE.txt",
+    "static/media/BW.jpg": "/service-worker/static/media/BW.3838538b.jpg",
+    "static/media/ClrOut.jpg": "/service-worker/static/media/ClrOut.4a03101d.jpg",
+    "static/media/github.svg": "/service-worker/static/media/github.8e60f318.svg",
+    "static/media/linkedIn.svg": "/service-worker/static/media/linkedIn.bafb2ede.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.eeca5193.js",
-    "static/js/2.91f5d127.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.23f95177.chunk.js"
+    "static/js/2.fc6ee02a.chunk.js",
+    "static/css/main.39a013ba.chunk.css",
+    "static/js/main.28d3a632.chunk.js"
   ]
 }
