@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <header>
       <ul className="nav-bar">
-        <li>
+        {/* <li>
           <Link
             to={{
               pathname: '/profile'
@@ -32,7 +32,7 @@ export default function Header() {
           >
             PROJECTS
           </Link>
-        </li>
+        </li> */}
       </ul>
     </header>
   );
